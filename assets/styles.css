@@ -1,0 +1,120 @@
+.center 
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cart 
+{
+    margin-left: 15px;
+}
+
+.d-block
+{
+    height: 650px;
+}
+
+.sh-cat
+{
+    height: 405px;
+}
+
+.cart a
+{
+    text-decoration: none;
+    list-style: none;
+}
+
+.cart a:hover
+{
+    text-decoration: none;
+    list-style: none;
+}
+
+.single_product
+{
+    background-color: rgb(241, 240, 240);
+}
+
+.product_img
+{
+    position: relative;
+}
+
+.product_img .new_product
+{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+.new_product
+{
+    background-color: rgb(206, 69, 69);
+    border-radius: 50%;
+}
+
+.product_name
+{
+    text-decoration: none;
+}
+
+.product_name:hover
+{
+    text-decoration: underline;
+    color: rgb(78, 187, 214);
+}
+
+.feature
+{
+    background: rgb(133, 191, 224);
+    background: linear-gradient(0deg, rgba(133, 191, 224,1) 5%, rgb(94, 153, 187) 90%);
+}
+
+.section_title h1
+{
+    text-decoration: underline;
+}
+
+.footer_section
+{
+    border-top: 3px solid #007BFF;
+    border-radius: 10px;
+}
+
+.footer_links ul li
+{
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+.footer_links ul li a
+{
+    color: #000;
+    text-decoration: none;
+    transition: all 0.2s linear;
+}
+
+.footer_links ul li a:hover
+{
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+#button
+{
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+    z-index: 100;
+}
+
+.form-control-range
+{
+    width: 100%;
+}
+
+.carousel-indicators li{
+    width: auto !important;
+    height: auto !important;
+}
